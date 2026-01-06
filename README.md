@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Maria, I'm a recent Master of Business Analytics graduate here in Melbourne, Australia!
-This GitHub is my newborn, and it will grow along with me as I learn and explore data and business analytics.
+This GitHub is my newborn, and it will grow along with me as I explore and working on more projects.
 
 - 🔭 I’m currently working in the hospitality industry in a non-technical role, where I develop strong customer insight, problem-solving, and observation skills that inform my analytics projects.
 - 🌱 Currently building projects using Excel, Python, and Power BI. 
